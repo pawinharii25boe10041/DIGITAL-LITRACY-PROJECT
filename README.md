@@ -22,13 +22,19 @@ This repository is organized into five task-based modules:
 ## 🚀 Quick Links to Deliverables
 
 ### 📧 Communication & Etiquette
-*   [Professional Email Drafts](./task-4-email-etiquette/emails.md)
-*   [Social Media Do's and Don'ts Checklist](./task-4-email-etiquette/social-media-checklist.md)
+
+*   **Professional Email Drafts:** This resource contains industry-standard templates designed for both academic and corporate correspondence. It includes structured examples of how to professionally request an assignment extension from a professor and how to formally express interest in a summer internship to a company coordinator. Each draft focuses on maintaining a respectful tone, clear subject lines, and professional sign-offs.
+
+*   **Social Media Do's and Don'ts Checklist:** This is a practical guide for college students to help them maintain a positive digital footprint. It outlines five essential "Do's," such as performing regular privacy audits and professional networking, alongside five "Don'ts," like avoiding public conflicts or posting sensitive personal data. This checklist ensures that a student’s online presence remains an asset rather than a liability.
+
+---
 
 ### 🛡️ Cybersecurity Resources
-*   [Phishing Case Study](./task-5-cybercrime/casestudy.md)
-*   [Stay Safe Online: Prevention Checklist](./task-5-cybercrime/prevention-checklist.md)
 
+*   **Phishing Case Study:** This document provides a deep-dive analysis into social engineering tactics. It breaks down a realistic "Urgent Payroll" phishing scenario step-by-step—from the initial deceptive email to the final theft of credentials. The study identifies who is typically targeted and explains the severe financial and academic consequences of such an attack.
+
+*   **Stay Safe Online: Prevention Checklist:** This resource provides over eight actionable tips specifically tailored for the Indian digital ecosystem. It covers general digital hygiene, such as two-factor authentication and app permissions, but places a strong emphasis on financial safety. It specifically addresses UPI security (reminding users that a PIN is only for sending money) and provides the official government reporting channels, including the 1930 Helpline and the National Cyber Crime Portal.
+   
 ### 📊 Collaboration Tools
 *   **Digital Literacy Awareness Quiz:** [https://forms.gle/exJjcYsFTQ32Ewej9]
   
